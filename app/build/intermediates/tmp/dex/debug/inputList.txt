@@ -1,0 +1,5 @@
+/media/Share/Linux/Development/chestnut/fr.razaina.demo.hook.ce/app/build/intermediates/classes/debug
+/media/Share/Linux/Development/chestnut/fr.razaina.demo.hook.ce/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-e5a3896096544d0eb4e2307795851188cbf08f0f.jar
+/media/Share/Linux/Development/chestnut/fr.razaina.demo.hook.ce/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-b2a0503b21a32340f3523bc2350e362e7c5d0f88.jar
+/media/Share/Linux/Development/chestnut/fr.razaina.demo.hook.ce/app/build/intermediates/pre-dexed/debug/classes-50c7971f5e62c9906fa4f80fd3c271d1d8202a22.jar
+/media/Share/Linux/Development/chestnut/fr.razaina.demo.hook.ce/app/build/intermediates/pre-dexed/debug/classes-6d9805e2579b1f03b610367327f3110dab873b97.jar

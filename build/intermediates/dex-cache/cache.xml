@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/razaina/android-sdks/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/media/Share/Linux/Development/chestnut/fr.razaina.demo.hook.ce/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-e5a3896096544d0eb4e2307795851188cbf08f0f.jar" />
+    </item>
+    <item
+        jar="/media/Share/Linux/Development/chestnut/fr.razaina.demo.hook.ce/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/media/Share/Linux/Development/chestnut/fr.razaina.demo.hook.ce/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-b2a0503b21a32340f3523bc2350e362e7c5d0f88.jar" />
+    </item>
+    <item
+        jar="/media/Share/Linux/Development/chestnut/fr.razaina.demo.hook.ce/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/media/Share/Linux/Development/chestnut/fr.razaina.demo.hook.ce/app/build/intermediates/pre-dexed/debug/classes-50c7971f5e62c9906fa4f80fd3c271d1d8202a22.jar" />
+    </item>
+    <item
+        jar="/media/Share/Linux/Development/chestnut/fr.razaina.demo.hook.ce/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/media/Share/Linux/Development/chestnut/fr.razaina.demo.hook.ce/app/build/intermediates/pre-dexed/debug/classes-6d9805e2579b1f03b610367327f3110dab873b97.jar" />
+    </item>
+
+</items>
